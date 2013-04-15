@@ -9,6 +9,8 @@
 * pickup / pick up
 * popup / pop up
 * setup / set up
+* showoff / show off
 * shutdown / shut down
+* shutout / shut out
 * signup / sign up
 * workout / work out
