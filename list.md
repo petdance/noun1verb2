@@ -11,5 +11,4 @@
 * setup / set up
 * shutdown / shut down
 * signup / sign up
-* signup / sign up
 * workout / work out
