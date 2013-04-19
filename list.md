@@ -2,6 +2,7 @@
 
 * backup / back up
 * layoff / lay off
+* layout / lay out
 * login / log in
 * meetup / meet up
 * payback / pay back
