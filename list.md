@@ -1,8 +1,10 @@
 # The List
 
 * backup / back up
+* buildup / build up
 * layoff / lay off
 * layout / lay out
+* liftoff / lift off
 * login / log in
 * meetup / meet up
 * payback / pay back
