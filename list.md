@@ -16,9 +16,11 @@
 * payoff / pay off
 * pickup / pick up
 * popup / pop up
+* printout / print out
 * setup / set up
 * showoff / show off
 * shutdown / shut down
 * shutout / shut out
 * signup / sign up
+* startup / start up
 * workout / work out
