@@ -5,6 +5,8 @@
 * cleanup / clean up
 * cutback / cut back
 * cutoff / cut off
+* hangout / hang out
+* hangup / hang up
 * layoff / lay off
 * layout / lay out
 * liftoff / lift off
@@ -23,4 +25,6 @@
 * shutout / shut out
 * signup / sign up
 * startup / start up
+* takeoff / take off
+* takeover / take over
 * workout / work out
