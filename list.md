@@ -11,6 +11,7 @@
 * layout / lay out
 * liftoff / lift off
 * login / log in
+* logoff / log off
 * meetup / meet up
 * mix-up / mix up
 * mock-up / mock up
@@ -19,12 +20,17 @@
 * pickup / pick up
 * popup / pop up
 * printout / print out
+* rollback / roll back
+* rollout / roll out
+* rollup / roll up
 * setup / set up
 * showoff / show off
 * shutdown / shut down
 * shutout / shut out
 * signup / sign up
+* slapdown / slap down
 * startup / start up
 * takeoff / take off
 * takeover / take over
 * workout / work out
+* writeoff / write off
