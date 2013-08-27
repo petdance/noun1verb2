@@ -23,6 +23,8 @@
 * pickup / pick up
 * popup / pop up
 * printout / print out
+* pulldown / pull down
+* pullout / pull out
 * rollback / roll back
 * rollout / roll out
 * rollup / roll up
