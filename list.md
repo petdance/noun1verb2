@@ -7,11 +7,14 @@
 * cutoff / cut off
 * hangout / hang out
 * hangup / hang up
+* kickoff / kick off
 * layoff / lay off
 * layout / lay out
 * liftoff / lift off
 * login / log in
 * logoff / log off
+* markdown / mark down
+* markdup / mark up
 * meetup / meet up
 * mix-up / mix up
 * mock-up / mock up
