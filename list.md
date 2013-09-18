@@ -28,6 +28,7 @@
 * pushback / push back
 * rollback / roll back
 * rollout / roll out
+* rollover / roll over
 * rollup / roll up
 * setup / set up
 * showoff / show off
