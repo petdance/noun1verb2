@@ -16,7 +16,7 @@
 * login / log in
 * logoff / log off
 * markdown / mark down
-* markdup / mark up
+* markup / mark up
 * meetup / meet up
 * mix-up / mix up
 * mock-up / mock up
