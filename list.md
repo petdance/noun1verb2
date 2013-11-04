@@ -11,6 +11,8 @@
 * layoff / lay off
 * layout / lay out
 * liftoff / lift off
+* lockout / lock out
+* lockup / lock up
 * login / log in
 * logoff / log off
 * markdown / mark down
@@ -36,6 +38,7 @@
 * shutout / shut out
 * signup / sign up
 * slapdown / slap down
+* standup / stand up
 * startup / start up
 * takeoff / take off
 * takeover / take over
