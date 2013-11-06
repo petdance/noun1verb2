@@ -7,6 +7,7 @@
 * cutoff / cut off
 * hangout / hang out
 * hangup / hang up
+* hookup / hook up
 * kickoff / kick off
 * layoff / lay off
 * layout / lay out
@@ -15,6 +16,8 @@
 * lockup / lock up
 * login / log in
 * logoff / log off
+* lookup / look up
+* makeup / make up
 * markdown / mark down
 * markup / mark up
 * meetup / meet up
@@ -43,4 +46,5 @@
 * takeoff / take off
 * takeover / take over
 * workout / work out
+* workup / work up
 * writeoff / write off
