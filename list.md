@@ -8,6 +8,7 @@
 * hangout / hang out
 * hangup / hang up
 * hookup / hook up
+* kick-ass / kick ass
 * kickoff / kick off
 * layoff / lay off
 * layout / lay out
