@@ -2,6 +2,8 @@
 
 * backup / back up
 * buildup / build up
+* checkout / check out
+* checkup / check up
 * cleanup / clean up
 * cutback / cut back
 * cutoff / cut off
