@@ -7,6 +7,7 @@
 * cleanup / clean up
 * cutback / cut back
 * cutoff / cut off
+* fallback / fall back
 * hangout / hang out
 * hangup / hang up
 * hookup / hook up
