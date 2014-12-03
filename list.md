@@ -8,6 +8,7 @@
 * cutback / cut back
 * cutoff / cut off
 * fallback / fall back
+* handout / hand out
 * hangout / hang out
 * hangup / hang up
 * hookup / hook up
