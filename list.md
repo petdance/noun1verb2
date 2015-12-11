@@ -50,6 +50,7 @@
 * startup / start up
 * takeoff / take off
 * takeover / take over
+* tryout / try out
 * workout / work out
 * workup / work up
 * writeoff / write off
