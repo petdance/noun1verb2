@@ -4,7 +4,9 @@
 * buildup / build up
 * checkout / check out
 * checkup / check up
+* clampdown / clamp down
 * cleanup / clean up
+* crackdown / crack down
 * cutback / cut back
 * cutoff / cut off
 * fallback / fall back
