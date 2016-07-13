@@ -1,6 +1,9 @@
 # The List
 
 * backup / back up
+* blowoff / blow off
+* blowout / blow out
+* breakdown / break down
 * buildup / build up
 * checkout / check out
 * checkup / check up
@@ -9,6 +12,8 @@
 * crackdown / crack down
 * cutback / cut back
 * cutoff / cut off
+* drive-in / drive in
+* drive-thru / drive through
 * fallback / fall back
 * handout / hand out
 * hangout / hang out
@@ -23,6 +28,7 @@
 * lockup / lock up
 * login / log in
 * logoff / log off
+* logout / log out
 * lookup / look up
 * makeup / make up
 * markdown / mark down
@@ -47,7 +53,7 @@
 * shutdown / shut down
 * shutout / shut out
 * signup / sign up
-* slapdown / slap down
+* smackdown / smack down
 * standup / stand up
 * startup / start up
 * takeoff / take off
@@ -56,3 +62,4 @@
 * workout / work out
 * workup / work up
 * writeoff / write off
+* writeup / write up
