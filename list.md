@@ -15,6 +15,7 @@
 * drive-in / drive in
 * drive-thru / drive through
 * fallback / fall back
+* handoff / hand off
 * handout / hand out
 * hangout / hang out
 * hangup / hang up
@@ -59,6 +60,7 @@
 * takeoff / take off
 * takeover / take over
 * tryout / try out
+* workaround / work around
 * workout / work out
 * workup / work up
 * writeoff / write off
