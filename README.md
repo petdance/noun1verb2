@@ -16,6 +16,7 @@ noun1verb2
 * cleanup / clean up
 * comeback / come back
 * crackdown / crack down
+* crossover / cross over
 * cutback / cut back
 * cutoff / cut off
 * drive-in / drive in
